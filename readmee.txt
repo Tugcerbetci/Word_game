@@ -1,1 +1,0 @@
-Ders için yapılmış küçük bir projedir . İki oyuncu tarafından oynanır. İlk oyuncu oyunu başlatır ve diğer oyuncu yazılan kelimenin son harfine göre yeni kelime türetmesini yapar. Döngü böyle devam eder. Her kelime bir kere kullanılmalı ve 20 saniye içinde cevap verilmesi istenir. Sonuç olarak kimin kazanıp kaybedildiği belirlenir.
